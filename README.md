@@ -1,1 +1,1 @@
-# Linera-regression-ML-In this i have created a few standard machine learning regression models which preety easily solve our buisness problems.
+# Linera-regression-ML-In this i have created linear machine learning regression model to solve our buisness problem.
